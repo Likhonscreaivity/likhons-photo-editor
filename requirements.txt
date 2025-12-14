@@ -3,4 +3,6 @@ rembg
 pillow
 opencv-python-headless
 numpy
+google-generativeai
+streamlit-drawable-canvas
 onnxruntime
